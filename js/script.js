@@ -13,4 +13,4 @@ personalMovieBD.movies[lastFilm] = +prompt("На сколько оцените �
 let secondFilm = prompt("Один из последних просмотренных фильмов?");
 personalMovieBD.movies[secondFilm] = +prompt("На сколько оцените его?",0);
 
-console.log(personalMovieBD);f
+console.log(personalMovieBD);
